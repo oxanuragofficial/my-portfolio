@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://oxanuragofficial.github.io/anurag-portfolio",
   "dependencies": {
     "@react-three/fiber": "^8.18.0",
     "@testing-library/jest-dom": "^5.17.0",
