@@ -91,7 +91,7 @@ function Hero() {
           {!imageError && (
             <img 
               src={imageSrc}
-              alt="Aman Raj - Full Stack Developer" 
+              alt="Anurag Kumar - Full Stack Developer" 
               style={{ display: 'block' }}
               onError={handleImageError}
               onLoad={(e) => {
