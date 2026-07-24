@@ -150,7 +150,7 @@ function Hero() {
           </svg>
         </a>
         <a 
-          href="mailto:think.like.ai.aman@gmail.com" 
+          href="mailto:hindvansianurag@gmail.com" 
           aria-label="Gmail"
         >
           <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
