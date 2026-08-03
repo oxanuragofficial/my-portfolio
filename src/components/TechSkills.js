@@ -134,13 +134,13 @@ function TechSkills() {
       </div>
 
       <div className="tech-stack-summary">
-        <h3>Full Stack Expertise</h3>
+        <h3>Frontend Expertise</h3>
         <p className="stack-description">
           Proficient in modern web technologies, cloud platforms, and data science tools
         </p>
         <div className="stats-grid">
           <div className="stat-item">
-            <div className="stat-number">40+</div>
+            <div className="stat-number">20+</div>
             <div className="stat-label">Technologies</div>
           </div>
           <div className="stat-item">
@@ -148,7 +148,7 @@ function TechSkills() {
             <div className="stat-label">Categories</div>
           </div>
           <div className="stat-item">
-            <div className="stat-number">7+</div>
+            <div className="stat-number">5+</div>
             <div className="stat-label">Languages</div>
           </div>
         </div>
