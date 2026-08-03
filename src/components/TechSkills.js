@@ -11,25 +11,15 @@ function TechSkills() {
         { name: 'CSS', image: 'css.png' },
         { name: 'JavaScript', image: 'JavaScript.png' },
         { name: 'TypeScript', image: 'TypeScript.png' },
-        { name: 'Bootstrap', image: 'Bootstrap.png' },
         { name: 'Tailwind CSS', image: 'Tailwind.png' },
         { name: 'React', image: 'react.png' },
-        { name: 'Angular', image: 'Angular.png' },
-        { name: 'Next.js', image: 'Nextjs.png' },
-        { name: 'jQuery', image: 'JQuery.png' }
+        
       ]
     },
     {
       category: 'Backend Development',
       icon: '🧠',
       skills: [
-        { name: 'Node.js', image: 'node.png' },
-        { name: 'Express.js', image: 'express.png' },
-        { name: 'Django', image: 'Django.png' },
-        { name: 'Flask', image: 'Flask.png' },
-        { name: 'FastAPI', image: 'FastAPI.png' },
-        { name: 'CodeIgniter', image: 'CodeIgniter.png' },
-        { name: 'PHP', image: 'PHP.png' },
         { name: 'Java', image: 'Java.png' },
         { name: 'C#', image: 'CSharp.png' }
       ]
@@ -39,9 +29,9 @@ function TechSkills() {
       icon: '🗄️',
       skills: [
         { name: 'MySQL', image: 'MySQL.png' },
-        { name: 'PostgreSQL', image: 'PostgresSQL.png' },
+  
         { name: 'MongoDB', image: 'mongodb.png' },
-        { name: 'SQLite', image: 'SQLite.png' }
+        
       ]
     },
     {
@@ -49,11 +39,6 @@ function TechSkills() {
       icon: '🤖',
       skills: [
         { name: 'Python', image: 'Python.png' },
-        { name: 'NumPy', image: 'NumPy.png' },
-        { name: 'Pandas', image: 'Pandas.png' },
-        { name: 'Matplotlib', image: 'Matplotlib.png' },
-        { name: 'Scikit-learn', image: 'sklearn.png' },
-        { name: 'TensorFlow', image: 'TensorFlow.png' }
       ]
     },
     {
@@ -92,7 +77,6 @@ function TechSkills() {
         { name: 'Python', image: 'Python.png' },
         { name: 'JavaScript', image: 'JavaScript.png' },
         { name: 'TypeScript', image: 'TypeScript.png' },
-        { name: 'PHP', image: 'PHP.png' },
         { name: 'C#', image: 'CSharp.png' }
       ]
     }
