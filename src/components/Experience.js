@@ -6,7 +6,7 @@ function Experience() {
   
     {
       id: 1,
-      title: 'founder & Web Developer',
+      title: 'Founder & Web Developer',
       company: 'Bharat Web Studio',
       location: 'Gujrat, India',
       period: 'February 2025 - present',
