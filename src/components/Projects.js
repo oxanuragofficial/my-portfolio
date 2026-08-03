@@ -15,18 +15,9 @@ function Projects() {
       github: '#',
       demo: '#'
     },
-    {
-      id: 2,
-      title: 'Sentiment Analysis Tool',
-      category: 'aiml',
-      description: 'Real-time sentiment analysis for social media using NLP and transformer models.',
-      technologies: ['PyTorch', 'BERT', 'Flask', 'MongoDB'],
-      image: 'https://via.placeholder.com/400x300/8b5cf6/ffffff?text=Sentiment+AI',
-      github: '#',
-      demo: '#'
-    },
+    
         {
-      id: 6,
+      id: 2,
       title: 'Tech Blog Portfolio',
       category: 'website',
       description: 'Modern blog platform with dark mode, search functionality, and responsive design.',
@@ -36,79 +27,16 @@ function Projects() {
       demo: '#'
     },
 
-    {
-      id: 4,
-      title: 'ChatBot Framework',
-      category: 'aiml',
-      description: 'Intelligent conversational AI with context awareness and multi-language support.',
-      technologies: ['Python', 'OpenAI', 'LangChain', 'Redis'],
-      image: 'https://via.placeholder.com/400x300/06b6d4/ffffff?text=ChatBot+AI',
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 5,
-      title: 'Interactive Cookbook',
-      category: 'ebook',
-      description: 'Digital cookbook with step-by-step recipes, nutritional info, and meal planning features.',
-      technologies: ['Next.js', 'Tailwind', 'Markdown', 'PDF.js'],
-      image: 'https://via.placeholder.com/400x300/f59e0b/ffffff?text=Cookbook',
-      github: '#',
-      demo: '#'
-    },
+   
+    
 
+   
+
+       
+    
+   
     {
-      id: 7,
-      title: 'Social Media Dashboard',
-      category: 'fullstack',
-      description: 'Full-featured social platform with posts, comments, real-time notifications, and user profiles.',
-      technologies: ['React', 'Express', 'Socket.io', 'MySQL'],
-      image: 'https://via.placeholder.com/400x300/6366f1/ffffff?text=Social+App',
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 8,
-      title: 'Predictive Analytics Engine',
-      category: 'aiml',
-      description: 'Machine learning platform for forecasting sales trends using historical data analysis.',
-      technologies: ['Scikit-learn', 'Pandas', 'Django', 'D3.js'],
-      image: 'https://via.placeholder.com/400x300/a855f7/ffffff?text=Predictive+ML',
-      github: '#',
-      demo: '#'
-    },
-        {
       id: 3,
-      title: 'E-Learning Platform',
-      category: 'fullstack',
-      description: 'Complete learning management system with video streaming, quizzes, and progress tracking.',
-      technologies: ['React', 'Node.js', 'PostgreSQL', 'AWS'],
-      image: 'https://via.placeholder.com/400x300/3b82f6/ffffff?text=E-Learning',
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 9,
-      title: 'Programming Guide Ebook',
-      category: 'ebook',
-      description: 'Comprehensive JavaScript guide with interactive code examples and downloadable PDF.',
-      technologies: ['MDX', 'React', 'CodeMirror', 'EPUB.js'],
-      image: 'https://via.placeholder.com/400x300/ef4444/ffffff?text=JS+Guide',
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 10,
-      title: 'E-Commerce Marketplace',
-      category: 'fullstack',
-      description: 'Multi-vendor marketplace with payment gateway, inventory management, and analytics dashboard.',
-      technologies: ['MERN Stack', 'Stripe', 'JWT', 'Cloudinary'],
-      image: 'https://via.placeholder.com/400x300/f97316/ffffff?text=Marketplace',
-      github: '#',
-      demo: '#'
-    },
-    {
-      id: 11,
       title: 'Corporate Landing Page',
       category: 'website',
       description: 'Professional business website with animations, contact forms, and SEO optimization.',
@@ -117,16 +45,7 @@ function Projects() {
       github: '#',
       demo: '#'
     },
-    {
-      id: 12,
-      title: 'Fitness Tracker Ebook',
-      category: 'ebook',
-      description: 'Interactive fitness guide with workout plans, progress tracking, and nutrition tips.',
-      technologies: ['Gatsby', 'GraphQL', 'Chart.js', 'PDF Gen'],
-      image: 'https://via.placeholder.com/400x300/84cc16/ffffff?text=Fitness+Guide',
-      github: '#',
-      demo: '#'
-    }
+ 
   ];
 
   const filteredProjects = filter === 'all' 
